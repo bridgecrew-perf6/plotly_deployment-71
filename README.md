@@ -10,3 +10,6 @@ This project was designed to create to interactive dashboard. Utilizing plotly w
 ## Results
 
 Utilizing the dropdown on the left hand side one can use the unique ID and explore the relevant data for that person. This adjusts all of the charts and provides an interactive experience for the user.
+
+## Link to website
+The deployed webpage is accessible at [https://gonzalesbarrett.github.io/plotly_deployment/](https://gonzalesbarrett.github.io/plotly_deployment/).
